@@ -1,0 +1,8 @@
+[submodule "pubic"]
+	path = pubic
+	url = https://github.com/Musalinux/Musalinux.github.io.git
+	branch = main
+[submodule "newmodule"]
+	path = newmodule
+	url = https://github.com/Musalinux/Musalinux.github.io.git
+	branch = main

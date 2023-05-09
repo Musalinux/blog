@@ -1,4 +1,4 @@
-baseURL = 'https://musalinux.github.io/'
+baseURL = "https://musalinux.github.io/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-blog-awesome"
